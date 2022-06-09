@@ -1,0 +1,20 @@
+{
+  "name": "nobullshit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kucukkanat/nobullshit",
+  "author": "HT Sahin <htolgasahin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "http-server"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.43",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "lit": "^2.2.5",
+    "qrcodejs": "https://github.com/davidshimjs/qrcodejs.git",
+    "tape": "^5.5.3"
+  }
+}
